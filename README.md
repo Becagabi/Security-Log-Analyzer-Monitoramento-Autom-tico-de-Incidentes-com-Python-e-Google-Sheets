@@ -34,7 +34,7 @@ O objetivo é transformar logs brutos em informações acionáveis para uma tria
 
 4.  **Agregação de Incidentes:** Contagem e consolidação das tentativas de ataque (falhas e sucessos) por IP.
 
-5.  **Exportação Automatizada (Geração do Dashboard):** Uso do `gspread` para enviar o Dataframe processado para diversas abas de uma planilha no Google Sheets, mantendo o Dashboard de Monitoramento sempre atualizado para visualização instantânea (conforme o [exemplo de dashboard](LINK-PARA-A-IMAGEM-OU-DASHBOARD-PUBLICO-AQUI)).
+5.  **Exportação Automatizada (Geração do Dashboard):** Uso do `gspread` para enviar o Dataframe processado para diversas abas de uma planilha no Google Sheets, mantendo o Dashboard de Monitoramento sempre atualizado para visualização instantânea (conforme o [imagem dash](https://github.com/Becagabi/Security-Log-Analyzer-Monitoramento-Autom-tico-de-Incidentes-com-Python-e-Google-Sheets/blob/main/imagem.png)).
  
 ## 🚀 Como Usar e Replicar
  
