@@ -1,5 +1,4 @@
-#Security Log Analyzer: Automação de Monitoramento de Incidentes com Python e Google Sheets 🐍📊
- 
+Security Log Analyzer: Automação de Monitoramento de Incidentes com Python e Google Sheets 🐍📊
  
 Visão Geral do Projeto
  
